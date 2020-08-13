@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_recents"
+        android:icon="@drawable/bro"
+        android:title="Profile" />
+    <item
+        android:id="@+id/tick"
+        android:icon="@drawable/tick"
+        android:title="Pass" />
+    <item
+        android:id="@+id/action_nearby"
+        android:icon="@drawable/dude"
+        android:title="Map" />
+</menu>
